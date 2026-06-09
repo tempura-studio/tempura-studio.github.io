@@ -103,6 +103,6 @@ iOS 端末で iCloud にサインインし、かつ本アプリの iCloud 同期
 | 提供者 | Tempura Studio (個人) |
 | 連絡先 | [support@tempurastudio.com](mailto:support@tempurastudio.com) |
 
-個人開発のため、返信には数日〜1 週間程度いただく場合があります。あらかじめご了承ください。
+個人開発のため、返信には 1 週間程度いただきます。あらかじめご了承ください。
 
 本ポリシーは日本語を正本とします。
